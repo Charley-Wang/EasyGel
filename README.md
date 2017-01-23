@@ -17,3 +17,7 @@ It also provides professional image processing functions for life science such a
 ### One-click Functions
 It provides one-click functions for object automatic detection, fitting, processing, and reporting. 
 ![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/Database/EasyGel_3.jpg?raw=true "Main Interface")
+
+### Wizard Functions
+It also provides wizard functions for professional users who can optimize parameters step by step.
+![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/Database/EasyGel_6.jpg?raw=true "Main Interface")
