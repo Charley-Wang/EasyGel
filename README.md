@@ -1,6 +1,6 @@
 # EasyGel
-EasyGels is a user-friendly bio-image processing, recognition, analysis, and reporting software. 
-The most attractive feature is that it provides both wizard and one-click functions for professional and non-professional users.
+### EasyGels is a user-friendly bio-image processing, recognition, analysis, and reporting software. 
+### The most attractive feature is that it provides both wizard and one-click functions for professional and non-professional users.
 
 ### Basic Image Processing Functions
 It includes general functions of image processing such as rotation, clip, filter, and etc.
