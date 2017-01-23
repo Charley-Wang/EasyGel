@@ -12,4 +12,4 @@ It also provides professional image processing functions for life science such a
 #### 1D Gel Electrophoresis Images
 ![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/TestImage/Std1DTestImage/BMP_COLOR_24.bmp?raw=true "Main Interface")
 #### 2D Gel Electrophoresis Images
-![Alt text](?raw=true "Main Interface")
+![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/TestImage/2Dgel.jpg?raw=true "Main Interface")
