@@ -4,6 +4,6 @@ The most attractive feature is that it provided both wizard and one-click functi
 
 ## Automatic Object Detection
 
-
+![Alt text](/instruction1.jpg?raw=true "Main Interface")
 
 
