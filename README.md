@@ -13,3 +13,7 @@ It also provides professional image processing functions for life science such a
 ![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/TestImage/Std1DTestImage/BMP_COLOR_24.bmp?raw=true "Main Interface")
 #### 2D Gel Electrophoresis Images
 ![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/TestImage/2Dgel.jpg?raw=true "Main Interface")
+
+### One-click Functions
+It provides one-click functions for object automatic detection, fitting, processing, and reporting. 
+![Alt text](https://github.com/Charley-Wang/EasyGel/blob/master/Database/EasyGel_3.jpg?raw=true "Main Interface")
