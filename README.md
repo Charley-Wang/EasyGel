@@ -6,7 +6,7 @@ The most attractive feature is that it provides both wizard and one-click functi
 <p></p>
 It includes general functions of image processing such as rotation, clip, filter, and etc.
 <p></p>
-<a src="https://github.com/Charley-Wang/EasyGel/blob/master/Database/EasyGel_1.jpg"></a>
+<img src="https://github.com/Charley-Wang/EasyGel/blob/master/Database/EasyGel_1.jpg">
 
 ### Bio-Image Processing Functions
 <p></p>
